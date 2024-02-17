@@ -1,4 +1,4 @@
-# K-DdoS<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
+# K-DdoS<h1 style="color:red" align="center">What is K-DdoS tool?</h1>
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.</b></p>
 <p style="color:80% black"><b>This is a python coded tool for ddos attacks.. you can easily give ddos attacks in your target websites with</b> `Termux` <b>in your Android Device!! Just Follow The Steps And Setup Your Tool!! ( Scroll up for more info) </b> 
