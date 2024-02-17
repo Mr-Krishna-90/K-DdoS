@@ -35,7 +35,7 @@ port = input("Port       : ")
 os.system("clear")
 print("\033[93m")
 os.system("figlet DdoS Attack")
-print("© Created By : Krishna")
+print("Created By : Krishna")
 print ("\033[92m")
 print "[                    ] 0% "
 time.sleep(5)
